@@ -115,3 +115,5 @@ Este guia descreve como configurar um workspace no Azure Machine Learning, criar
     "data": [[1,1,2022,2,0,1,1,2,0.3,0.3,0.3,0.3]]
   }
 }
+
+[361.41500445154400]
