@@ -118,5 +118,5 @@ Este guia descreve como configurar um workspace no Azure Machine Learning, criar
 ```
 ## Verifique o resultado esperado, que será algo como:
 ```json
-[361.41500445154400]
+[344.21150529548413]
 ```
